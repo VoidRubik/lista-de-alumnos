@@ -1,0 +1,30 @@
+#botón_enviar
+{
+ margin-top:20px;
+ margin-bottom:20px;     
+}
+#botón_ordenar
+{
+display:none;
+margin-top:20px;  
+margin-bottom:20px;      
+}
+ input
+ {
+margin: 10px;
+ }
+ h3
+ {
+color:blue;
+border-radius: 4px;
+border-color: rgb(119, 0, 255);
+border-style: dotted;
+ }
+ button
+ {
+ background-color:yellow;   
+ }
+ body
+ {
+ background-color:aquamarine;   
+ }
